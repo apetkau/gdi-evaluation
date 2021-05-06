@@ -1,0 +1,21 @@
+name: gdi-evaluation
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - bcftools==1.12
+  - bedtools
+  - htsbox
+  - iqtree
+  - mamba
+  - pyqt
+  - minimap2
+  - mlst
+  - htslib
+  - fasttree
+  - bamtools
+  - samtools
+  - perl==5.22.0.1
+  - jupyterlab
